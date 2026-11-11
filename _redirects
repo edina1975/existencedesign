@@ -1,0 +1,9 @@
+# Normalize homepage aliases before host rules to avoid redirect chains.
+http://www.existencedesign.com/index.html https://existencedesign.com/ 301!
+https://www.existencedesign.com/index.html https://existencedesign.com/ 301!
+http://existencedesign.com/index.html https://existencedesign.com/ 301!
+/index.html https://existencedesign.com/ 301!
+# Preserve paths on existing pages and assets when normalizing the host/scheme.
+http://www.existencedesign.com/* https://existencedesign.com/:splat 301!
+https://www.existencedesign.com/* https://existencedesign.com/:splat 301!
+http://existencedesign.com/* https://existencedesign.com/:splat 301!

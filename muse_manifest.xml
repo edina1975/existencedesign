@@ -1,0 +1,488 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.existencedesign.com" resolutions="1x" timestamp="1691188046610">
+  <folder name="css">
+    <file name="site_global.css" crc="3936871420"/>
+    <file name="master_page.css" crc="399472757" ref="contact:about:film-video:web-design:photography"/>
+    <file name="master_home-alt.css" crc="407476186" ref="index"/>
+    <file name="contact.css" crc="259160436" ref="contact"/>
+    <file name="about.css" crc="15518932" ref="about"/>
+    <file name="film-video.css" crc="118119525" ref="film-video"/>
+    <file name="web-design.css" crc="4227211102" ref="web-design"/>
+    <file name="index.css" crc="4288031720" ref="index"/>
+    <file name="photography.css" crc="3917043356" ref="photography"/>
+  </folder>
+  <folder name="assets">
+    <file name="existence-design-elle-italia.jpg" crc="3870920063" seo="true" mt="1462171604000"/>
+    <file name="existence-design-le-petit-journal-mexico.jpg" crc="108926621" seo="true" mt="1462171574000"/>
+    <file name="existence-design-stand-up-journal.jpg" crc="462088712" seo="true" mt="1462171589000"/>
+    <file name="video.mp4" crc="454496760" seo="true" mt="1463278168000"/>
+    <file name="existence-design-elle-italia.pdf" crc="453583856" seo="true" mt="1462170371000"/>
+    <file name="existence-design-mauinokaoi-huialoha.pdf" crc="100543629" seo="true" mt="1462252624000"/>
+    <file name="existence-design-le-petit-journal-mexico.pdf" crc="3966969701" seo="true" mt="1462169789000"/>
+    <file name="existence-design-stand-up-journal.pdf" crc="4152622831" seo="true" mt="1462170525000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>web-design:tablet>photography:tablet>contact:contact:film-video:web-design:photography"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:about:film-video:web-design:photography"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>about:phone>film-video:phone>contact:phone>web-design:phone>photography:tablet>index:tablet>about:tablet>film-video:tablet>web-design:tablet>photography:tablet>contact:contact:index:about:film-video:web-design:photography"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>contact"/>
+    <file name="form_process.php" crc="260214869" ref="phone>contact"/>
+    <file name="form-u23211.php" crc="3935786718" ref="phone>contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography"/>
+    <file name="form-u22974.php" crc="3779506095" ref="tablet>contact"/>
+    <file name="form-u25807.php" crc="4039695111" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="497418782" ref="phone>index"/>
+    <file name="video760x428.jpg" crc="135449328" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about-favicon.ico" crc="497418782" ref="phone>about"/>
+    <file name="nathalie-vaglio.jpg" crc="3840287409" ref="phone>about:tablet>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="film---video-favicon.ico" crc="497418782" ref="phone>film-video"/>
+    <file name="contact-favicon.ico" crc="497418782" ref="phone>contact"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="web-design-favicon.ico" crc="497418782" ref="phone>web-design"/>
+    <file name="existence-design-webdesign-12-jupiter2023.jpg" crc="327192231" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:contact:index:about:film-video:web-design:photography"/>
+    <file name="existence-design-webdesign-1-we-create.jpg" crc="416052665" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-3-jerome-gruet.jpg" crc="413471336" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-4-jerome-gruet.jpg" crc="3818556731" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-2-susan-indich.jpg" crc="4205335378" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-6-home-in-tulum.jpg" crc="527599830" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-10-online-yoga-teachingpg.jpg" crc="4188075631" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-8-deep-relief-maui.jpg" crc="4267799952" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-7carine-camboulives.jpg" crc="77267596" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-9-elite-special-section.jpg" crc="4278895403" seo="true" ref="phone>web-design:tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-12-jupiter202363x35.jpg" crc="4013818836" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-1-we-create63x35.jpg" crc="3853171638" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-3-jerome-gruet63x35.jpg" crc="78875531" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-4-jerome-gruet63x35.jpg" crc="500393516" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-2-susan-indich63x35.jpg" crc="388633234" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-6-home-in-tulum63x35.jpg" crc="3996820637" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-10-online-yoga-teachingpg63x35.jpg" crc="4156054508" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-8-deep-relief-maui62x35.jpg" crc="4121160112" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-7carine-camboulives63x36.jpg" crc="3942577700" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-9-elite-special-section63x35.jpg" crc="3975841557" seo="true" ref="phone>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="left-arrow-u23603-3-fr.png" crc="458455081" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography"/>
+    <file name="left-arrow-u23603-3-fr2.png" crc="284342814" ref="phone>web-design"/>
+    <file name="left-arrow-u23603-3-r-fr.png" crc="4289681378" ref="phone>web-design"/>
+    <file name="right-arrow-u23602-3-fr.png" crc="4182218602" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography"/>
+    <file name="right-arrow-u23602-3-r-fr.png" crc="4070599920" ref="phone>web-design"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>web-design:phone>photography:tablet>web-design:tablet>photography:web-design:photography"/>
+    <file name="photography-favicon.ico" crc="497418782" ref="phone>photography"/>
+    <file name="existence-design-bg-8.jpg" crc="302503069" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-9.jpg" crc="3845854423" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-10.jpg" crc="3008235" seo="true" ref="phone>photography:tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-11.jpg" crc="3774119032" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-13.jpg" crc="4046759134" seo="true" ref="phone>photography:tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-14.jpg" crc="74696048" seo="true" ref="phone>photography:tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-15.jpg" crc="4213620292" seo="true" ref="phone>photography:tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-16.jpg" crc="3978735473" seo="true" ref="phone>photography:tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-18.jpg" crc="394736728" seo="true" ref="phone>photography:tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-17.jpg" crc="4186501957" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-862x35.jpg" crc="3859880232" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-962x35.jpg" crc="4232500874" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1063x35.jpg" crc="118790979" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1162x35.jpg" crc="536193238" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1363x35.jpg" crc="231637795" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1463x35.jpg" crc="3901975803" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1563x35.jpg" crc="4169150223" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1663x35.jpg" crc="3847206428" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1863x35.jpg" crc="3992151075" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-1762x35.jpg" crc="234316378" seo="true" ref="phone>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="left-arrow-u23798-3-fr.png" crc="3758430654" ref="phone>photography:tablet>web-design:tablet>photography:web-design:photography"/>
+    <file name="left-arrow.png" crc="3872681372" ref="phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="film-video" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="right-arrow.png" crc="3930459994" ref="phone>photography:tablet>web-design:tablet>photography:film-video:web-design:photography">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="film-video" alt=""/>
+      <caption webpage="film-video" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-mauinokaoi-huialoha.jpg" crc="3957087306" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-elle-italia.jpg" crc="4195582199" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-le-petit-journal-mexico.jpg" crc="4192686269" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-stand-up-journal.jpg" crc="146564031" seo="true" ref="phone>photography:tablet>photography:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="video.jpg" crc="4085734838" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="page-favicon.ico" crc="187139731" ref="tablet>about"/>
+    <file name="existence-design-bg-12.jpg" crc="121095179" ref="tablet>about:tablet>film-video:tablet>web-design:tablet>photography:contact:about:film-video:web-design:photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="film-video" alt=""/>
+      <caption webpage="film-video" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-12-jupiter2023111x63.jpg" crc="38793109" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-1-we-create111x63.jpg" crc="412532487" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-3-jerome-gruet111x63.jpg" crc="4135847424" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-4-jerome-gruet111x63.jpg" crc="4210832861" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-2-susan-indich111x63.jpg" crc="403977671" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-6-home-in-tulum111x63.jpg" crc="4068406446" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-10-online-yoga-teachingpg111x63.jpg" crc="411772935" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-8-deep-relief-maui110x62.jpg" crc="4085758535" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-7carine-camboulives113x64.jpg" crc="3989799671" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-9-elite-special-section111x63.jpg" crc="4104086813" seo="true" ref="tablet>web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-bg-8110x62.jpg" crc="4125274928" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-9110x62.jpg" crc="307901807" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-10111x63.jpg" crc="3809045778" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-11110x62.jpg" crc="4266820258" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-13111x63.jpg" crc="4223678432" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-14111x63.jpg" crc="4124879739" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-15111x63.jpg" crc="390648608" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-16111x63.jpg" crc="355640036" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-18111x63.jpg" crc="4280958878" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-17110x62.jpg" crc="453524508" seo="true" ref="tablet>photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-112.jpg" crc="3842929783" ref="tablet>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u25667-3.png" crc="316832737" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25211.png" crc="4026456896" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25211-r.png" crc="345052429" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25211-a.png" crc="3837260936" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25167.png" crc="130426974" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25167-r.png" crc="3766304229" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25167-a.png" crc="421951567" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24338.png" crc="3964518192" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24338-r.png" crc="324004422" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24338-a.png" crc="3797273163" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25127.png" crc="4270436644" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25127-r.png" crc="4223187997" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25127-a.png" crc="4185851912" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24359.png" crc="98613717" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24359-r.png" crc="4146123653" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24359-a.png" crc="288625844" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24365.png" crc="4107809523" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24365-r.png" crc="424757686" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u24365-a.png" crc="367311152" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u25445-4.png" crc="512733302" ref="contact:about:film-video:web-design:photography"/>
+    <file name="u10803-5.png" crc="129635428" ref="contact:about:film-video:web-design:photography"/>
+    <file name="favicon.ico" crc="497418782" ref="index"/>
+    <file name="u25439-4.png" crc="415116936" ref="index"/>
+    <file name="u11392-5.png" crc="3787463633" ref="index"/>
+    <file name="u11393-4.png" crc="85022860" ref="index"/>
+    <file name="u25192-4-a.png" crc="4107245232" ref="index"/>
+    <file name="u25148.png" crc="369375910" ref="index"/>
+    <file name="u25148-r.png" crc="3774364626" ref="index"/>
+    <file name="u25148-a.png" crc="231467622" ref="index"/>
+    <file name="u18745.png" crc="4049119817" ref="index"/>
+    <file name="u18745-r.png" crc="4225447042" ref="index"/>
+    <file name="u18745-a.png" crc="263269214" ref="index"/>
+    <file name="u25108.png" crc="3874899541" ref="index"/>
+    <file name="u25108-r.png" crc="26084072" ref="index"/>
+    <file name="u25108-a.png" crc="399620771" ref="index"/>
+    <file name="u14054.png" crc="4288020885" ref="index"/>
+    <file name="u14054-r.png" crc="4180825934" ref="index"/>
+    <file name="u14054-a.png" crc="3890584140" ref="index"/>
+    <file name="u14048.png" crc="4036722210" ref="index"/>
+    <file name="u14048-r.png" crc="4040111959" ref="index"/>
+    <file name="u14048-a.png" crc="4048260379" ref="index"/>
+    <file name="existence-design-webdesign-12-jupiter20232.jpg" crc="4031637506" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-1-we-create2.jpg" crc="150944188" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-3-jerome-gruet2.jpg" crc="74259621" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-4-jerome-gruet2.jpg" crc="4205614294" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-2-susan-indich2.jpg" crc="3898703691" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-6-home-in-tulum2.jpg" crc="34308785" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-10-online-yoga-teachingpg2.jpg" crc="235117640" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-8-deep-relief-maui2.jpg" crc="4004520907" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-webdesign-7carine-camboulives2.jpg" crc="165217846" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="existence-design-bg-102.jpg" crc="3922169160" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-132.jpg" crc="3985306652" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-142.jpg" crc="307092029" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-152.jpg" crc="452658522" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="existence-design-bg-162.jpg" crc="203676018" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_page.css" crc="4106047031" ref="tablet>contact:tablet>film-video:tablet>about:tablet>web-design:tablet>photography"/>
+      <file name="master_home-alt.css" crc="340480538" ref="tablet>index"/>
+      <file name="contact.css" crc="186253110" ref="tablet>contact"/>
+      <file name="index.css" crc="3976683213" ref="tablet>index"/>
+      <file name="film-video.css" crc="411815368" ref="tablet>film-video"/>
+      <file name="about.css" crc="3939294529" ref="tablet>about"/>
+      <file name="web-design.css" crc="223770074" ref="tablet>web-design"/>
+      <file name="photography.css" crc="82983946" ref="tablet>photography"/>
+    </folder>
+    <file name="index.html" crc="1846306" seo="true" mt="1462422069775" redirect="true"/>
+    <file name="about.html" crc="3984334" seo="true" mt="1492480516630" redirect="true"/>
+    <file name="film-video.html" crc="3868186197" seo="true" mt="1492480528345" redirect="true"/>
+    <file name="web-design.html" crc="206571498" seo="true" mt="1462422069783" redirect="true"/>
+    <file name="photography.html" crc="172480514" seo="true" mt="1492480405117" redirect="true"/>
+    <file name="contact.html" crc="310516875" seo="true" mt="1492480782788" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_pages-master.css" crc="4010450638" ref="phone>contact:phone>about:phone>web-design:phone>index:phone>film-video:phone>photography"/>
+      <file name="contact.css" crc="43839591" ref="phone>contact"/>
+      <file name="about.css" crc="532703535" ref="phone>about"/>
+      <file name="web-design.css" crc="430674116" ref="phone>web-design"/>
+      <file name="index.css" crc="482999771" ref="phone>index"/>
+      <file name="film-video.css" crc="496423774" ref="phone>film-video"/>
+      <file name="photography.css" crc="488122017" ref="phone>photography"/>
+    </folder>
+    <file name="index.html" crc="3878930722" seo="true" mt="1492480416372" redirect="true"/>
+    <file name="about.html" crc="425413900" seo="true" mt="1492480486119" redirect="true"/>
+    <file name="film-video.html" crc="4132242445" seo="true" mt="1492480556747" redirect="true"/>
+    <file name="contact.html" crc="236488475" seo="true" mt="1492480664199" redirect="true"/>
+    <file name="web-design.html" crc="380085602" seo="true" mt="1492480416372" redirect="true"/>
+    <file name="photography.html" crc="4160873438" seo="true" mt="1492480416372" redirect="true"/>
+  </folder>
+  <file name="contact.html" crc="4082984354" seo="true" mt="1691187809216" redirect="true"/>
+  <file name="index.html" crc="3939850408" seo="true" mt="1691187809260" redirect="true"/>
+  <file name="about.html" crc="4235321045" seo="true" mt="1691187809216" redirect="true"/>
+  <file name="film-video.html" crc="4219820515" seo="true" mt="1691187966900" redirect="true"/>
+  <file name="web-design.html" crc="4024825493" seo="true" mt="1691187809216" redirect="true"/>
+  <file name="photography.html" crc="83322906" seo="true" mt="1691187809216" redirect="true"/>
+</manifest>
