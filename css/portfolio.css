@@ -28,4 +28,6 @@
 @media(max-width:600px){.awards-grid{grid-template-columns:1fr;gap:32px}.recognition .section-head h2{font-size:clamp(30px,7.5vw,42px);letter-spacing:-1px}.recognition-subheading{font-size:22px}.publication-grid{gap:28px 16px}.publication-image{height:220px;padding:16px}.publication-image img{height:auto;max-height:188px}.publication h4{font-size:14px}.published-photography{margin-top:36px}}
 @media(max-width:360px){.publication-grid{grid-template-columns:1fr}}
 
-.filmmaker-link{padding-top:32px;padding-bottom:32px;border-bottom:1px solid var(--line)}.filmmaker-link .text-link{margin-top:0;font-size:14px;gap:24px}
+.filmmaker-link{text-align:right;padding-top:32px;padding-bottom:32px;border-bottom:1px solid var(--line)}.filmmaker-link .text-link{margin-top:0;font-size:14px;gap:24px}
+
+.contact .phone{font-size:13px;letter-spacing:0;color:#62685c;margin-top:16px}.contact .phone:hover{color:var(--accent)}
